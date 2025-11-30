@@ -1,6 +1,6 @@
 # Hi there, My Name is Hazel Joy Escal <img width="30" height="30" alt="waving gif" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
 
-I am excited about learning new technologies, trying out projects, and using my skills in real-life situations. I’m aiming for a career in software development, web technologies, or networking. I’m an aspiring web developer and IT learner who enjoys making websites, writing simple programs in Java, working with SQL databases, and learning about networks. I’m still learning, but I’m eager to improve, explore new tools like Git/GitHub, Visual Studio Code, IntelliJ, and Canva, and get better with every project I do.
+I am excited about learning new technologies, trying out projects, and using my skills in real-life situations. I’m aiming for a career in software development, web technologies, or networking. I’m an aspiring web developer and IT learner who enjoys making websites, writing simple programs in Java, working with SQL databases, and learning about networks. I’m still learning, but I’m eager to improve, explore new tools and get better with every project I do.
 
 ---
 
