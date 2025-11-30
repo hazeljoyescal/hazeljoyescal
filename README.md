@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, My Name is Hazel Joy Escal <img width="30" height="30" alt="waving gif" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
 
-<!--
-**hazeljoyescal/hazeljoyescal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am excited about learning new technologies, trying out projects, and using my skills in real-life situations. I’m aiming for a career in software development, web technologies, or networking. I’m an aspiring web developer and IT learner who enjoys making websites, writing simple programs in Java, working with SQL databases, and learning about networks. I’m still learning, but I’m eager to improve, explore new tools like Git/GitHub, Visual Studio Code, IntelliJ, and Canva, and get better with every project I do.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+* **BS in Information Technology**
+* New Era University
+* 2024 – Present
+
+## 🏅 Certifications
+
+*(Add yours here when ready!)*
+
+## 🧰 Skill Sets
+
+* **Programming:** Python, JavaScript, Java, PHP
+* **Databases:** IBM DB2 Cloud, SQL, NoSQL
+* **Tools:** HTML/CSS, Tailwind CSS, NodeJS, Figma, Excel, MongoDB, Lucidchart, IntelliJ IDEA, BurpSuite, MySQL
+
+## 📬 Contact Me!
+
+📧 Email - **[hazeljoy.escal@neu.edu.ph](mailto:hazeljoy.escal@neu.edu.ph)**
