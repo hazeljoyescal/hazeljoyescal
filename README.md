@@ -12,13 +12,13 @@ I am excited about learning new technologies, trying out projects, and using my 
 
 ## 🏅 Certifications
 
-*(Add yours here when ready!)*
+* [SQL and Relational Databases 101][[(https://courses.cognitiveclass.ai/certificates/092ad54a09ff4cd285bf027a1238eafa)]
 
 ## 🧰 Skill Sets
 
-* **Programming:** Python, JavaScript, Java, PHP
+* **Programming:** JavaScript, Java, PHP
 * **Databases:** IBM DB2 Cloud, SQL, NoSQL
-* **Tools:** HTML/CSS, Tailwind CSS, NodeJS, Figma, Excel, MongoDB, Lucidchart, IntelliJ IDEA, BurpSuite, MySQL
+* **Tools:** HTML/CSS, Excel, Lucidchart, IntelliJ IDEA, MySQL
 
 ## 📬 Contact Me!
 
