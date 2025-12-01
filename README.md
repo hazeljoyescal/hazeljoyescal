@@ -12,7 +12,7 @@ I am excited about learning new technologies, trying out projects, and using my 
 
 ## 🏅 Certifications
 
-* [SQL and Relational Databases 101][(https://courses.cognitiveclass.ai/certificates/092ad54a09ff4cd285bf027a1238eafa)]
+* [SQL and Relational Databases 101]https://courses.cognitiveclass.ai/certificates/092ad54a09ff4cd285bf027a1238eafa
 
 ## 🧰 Skill Sets
 
