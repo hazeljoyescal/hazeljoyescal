@@ -14,6 +14,7 @@ I am excited about learning new technologies, trying out projects, and using my 
 
 * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/092ad54a09ff4cd285bf027a1238eafa)
 * [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D1ECF9183A1CF4F98F4FACD52CA0D16B1FE3955C5AE23792BDCBD2EC91918C62)
+* [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B7A0A37C56FF48A581350DBE9124CCCC92E29E3DA3A7F3C72C6A87B667C1F95F)
   
 ## 🧰 Skill Sets
 
