@@ -6,7 +6,7 @@ I am excited about learning new technologies, trying out projects, and using my 
 
 ## 🎓 Education
 
-**BS in Information Technology**
+* **BS in Information Technology**
 | **New Era University**
 | **2024 – Present**
 
