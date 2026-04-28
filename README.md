@@ -20,7 +20,7 @@ I am excited about learning new technologies, trying out projects, and using my 
   
 ## 🧰 Skill Sets
 
-* **Programming:** JavaScript, Java, PHP
+* **Programming:** JavaScript, Java, PHP, Python, React Native
 * **Databases:** IBM DB2 Cloud, SQL, NoSQL
 * **Tools:** HTML/CSS, Excel, Lucidchart, IntelliJ IDEA, MySQL
 
