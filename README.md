@@ -22,7 +22,7 @@ I am excited about learning new technologies, trying out projects, and using my 
 
 * **Programming:** JavaScript, Java, PHP, Python, React Native
 * **Databases:** IBM DB2 Cloud, SQL, NoSQL
-* **Tools:** HTML/CSS, Excel, Lucidchart, IntelliJ IDEA, MySQL
+* **Tools:** HTML/CSS, Excel, Lucidchart, IntelliJ IDEA, MySQL, Jaspersoft Studio, Eclipse, Pentaho, PyCharm, VsCode
 
 ## 📬 You may reach me at:
 
