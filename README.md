@@ -26,4 +26,4 @@ I am excited about learning new technologies, trying out projects, and using my 
 
 ## 📬 Contact Me!
 
-📧 Email - **[hazeljoy.escal@neu.edu.ph](mailto:hazeljoy.escal@neu.edu.ph) / [zelescal681@gmail.com](mailto:zelescal681@gmail.com) **
+📧 Email - [hazeljoy.escal@neu.edu.ph](mailto:hazeljoy.escal@neu.edu.ph) / [zelescal681@gmail.com](mailto:zelescal681@gmail.com) 
