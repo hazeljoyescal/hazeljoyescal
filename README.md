@@ -16,7 +16,7 @@ I am excited about learning new technologies, trying out projects, and using my 
 * [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D1ECF9183A1CF4F98F4FACD52CA0D16B1FE3955C5AE23792BDCBD2EC91918C62)
 * [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B7A0A37C56FF48A581350DBE9124CCCC92E29E3DA3A7F3C72C6A87B667C1F95F)
 * [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=36A5D0D69ED748869D7BD1F24215A6E228ABD996346BC508DC33FBEF21DB6DC1)
-* [NoSQL and DBaaS 101]([https://catalog-education.oracle.com/pls/certview/sharebadge?id=36A5D0D69ED748869D7BD1F24215A6E228ABD996346BC508DC33FBEF21DB6DC1](https://courses.cognitiveclass.ai/certificates/7ffd699671a64cdda8d40e222bb20aa8)
+* [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/7ffd699671a64cdda8d40e222bb20aa8)
   
 ## 🧰 Skill Sets
 
